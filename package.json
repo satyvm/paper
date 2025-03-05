@@ -1,8 +1,8 @@
 {
-  "name": "manifest",
+  "name": "paper",
   "version": "1.1.1",
   "description": "An instant grid-based pinboard for note taking.",
-  "repository": "https://github.com/jonathontoon/manifest",
+  "repository": "https://github.com/satyvm/paper",
   "author": "Jonathon Toon",
   "license": "GPL 2.0",
   "private": true,
